@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MercurialHttpHooks.Net</id>
+    <version>1.0.0</version>
+    <title>MercurialHttpHooks.Net</title>
+    <authors>3DA</authors>
+    <owners>3DA</owners>
+    <licenseUrl>https://github.com/3da/MercurialHttpHooks.Net/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/3da/MercurialHttpHooks.Net</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.Net classes for MercurialHttpHooks</description>
+    <releaseNotes>First release</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Mercurial</tags>
+  </metadata>
+</package>
