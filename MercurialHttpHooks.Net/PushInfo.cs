@@ -7,5 +7,7 @@ namespace MercurialHttpHooks.Net
         public string UserName { get; set; }
 
         public IList<CommitInfo> Commits { get; set; }
+
+        public string HookType { get; set; }
     }
 }
